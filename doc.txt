@@ -1,2 +1,2 @@
-user1@ngodev.onmicrosoft.com|2kMJKMKfFHin0rFKSEEk
-user3@ngodev.onmicrosoft.com|wVyUA6JSb5vypf208C0F
+@ngodev|2kMJKMKfFHin0rFKSEEk
+@ngodev|wVyUA6JSb5vypf208C0F
